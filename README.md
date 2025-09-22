@@ -3,8 +3,8 @@
 💻 computer science student who has been breathing technology since childhood.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=desconexao&show_icons=true&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desconexao&layout=compact&theme=transparent" alt="desconexao's Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=desconexao&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desconexao&layout=compact&theme=dark" alt="desconexao's Top Languages" />
 </div>
 
 ## 🛠️ Languages and Tools
