@@ -1,44 +1,18 @@
-```
 desconexao@github
+-----------------
 
-        /\            User     : desconexao
-       /  \           OS       : Linux (Hyprland), Windows
-      /\    \         Editor   : Neovim (LazyVim)
-     /  __   \        WM       : Hyprland
-    /__/  \___\       
-```
-
-
-## Stack
-
-### Languages & Frameworks
+        /\           
+       /  \          user     : desconexao
+      /\   \         os       : arch, windows
+     /  __  \        editor   : neovim (lazyvim)
+    /__/  \__\       stack    : c • python • ts • node • angular
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,js,ts,angular,nodejs,html,css,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,python,ts,nodejs,angular,linux,neovim,git,mysql&theme=dark" />
 </p>
 
-
-
-### Database
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-</p>
-
-
-
-### Workstation & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,neovim,windows,git&theme=dark" />
-</p>
-
-
-
-## Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinicius-lameirao" target="_blank">
+  <a href="https://www.linkedin.com/in/vinicius-lameirao">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
 </p>
-
