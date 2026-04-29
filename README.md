@@ -3,7 +3,7 @@ desconexao@github
 
         /\           
        /  \          user     : desconexao
-      /\   \         os       : arch, windows
+      /\   \         os       : arch, ubuntu, windows
      /  __  \        editor   : neovim (lazyvim)
     /__/  \__\       stack    : c • python • ts • node • angular
 
